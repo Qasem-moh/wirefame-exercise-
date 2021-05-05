@@ -70,9 +70,10 @@ article p {
 }
 article button {
   margin-left: 515px;
-  margin-top: -37px;
+  margin-top: -20px;
   position: absolute;
   z-index: 1000;
+  height: 25px;
 }
 footer section{
   border: 1px solid;
