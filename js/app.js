@@ -1,4 +1,4 @@
-//Get the button:
+'use strict';
 let mybutton = document.getElementById('myBtn');
 
 window.onscroll = function () {
